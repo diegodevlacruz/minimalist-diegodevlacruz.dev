@@ -134,12 +134,95 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Java",
       "level": "Master",
       "keywords": [
-        "HTML",
+        "Java",
+        "Java 7EE",
+        "Java 8",
+        "Java 17"
+      ]
+    },
+    {
+      "name": "Javascript",
+      "level": "Intermediate",
+      "keywords": [
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Javascript",
+        "HTML5",
         "CSS",
-        "JavaScript"
+        "Astro"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "React"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Docker"
+      ]
+    },
+    {
+      "name": "Oracle DB",
+      "level": "Intermediate",
+      "keywords": [
+        "Oracle DB"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Basic",
+      "keywords": [
+        "Amazon Web Services",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Spring Framework",
+      "level": "Intermediate",
+      "keywords": [
+        "Spring Framework",
+        "SpringBoot",
+        "Spring Data",
+        "Spring JPA",
+        "Spring Batch"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Git",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Intermediate",
+      "keywords": [
+        "GitLab",
+        "BitBucket"
+      ]
+    },
+    {
+      "name": "Junit and Mockito",
+      "level": "Intermediate",
+      "keywords": [
+        "Unit Tests",
+        "Mockito",
+        "Junit"
       ]
     }
   ],
