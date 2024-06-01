@@ -15,9 +15,14 @@
         "region": "Mexico City"
       },
       "profiles": [{
-        "network": "Linked In",
-        "username": "john",
-        "url": "https://twitter.com/john"
+        "network": "LinkedIn",
+        "username": "Diego Armando de la Cruz Rojas",
+        "url": "https://www.linkedin.com/in/diegoadelacruz/"
+      },
+      {
+        "network": "GitHub",
+        "username": "diegodevlacruz",
+        "url": "https://github.com/diegodevlacruz"
       }]
     },
     "work": [{
