@@ -249,14 +249,14 @@
   ],
   "projects": [
     {
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+      "name": "Todo-App",
+      "startDate": "2024-05-01",
+      "endDate": "2021-05-15",
+      "description": "This is a mini app that manage tasks in a simple screen, you can add and remove completed tasks.",
       "highlights": [
-        "Won award at AIHacks 2016"
+        "Use React states"
       ],
-      "url": "https://project.com/"
+      "url": "https://todo-app-ddlc.netlify.app"
     }
   ]
 }
