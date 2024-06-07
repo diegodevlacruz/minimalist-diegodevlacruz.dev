@@ -80,56 +80,22 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "Universidad Autonoma de Nayarit",
       "url": "https://www.uan.edu.mx",
-      "area": "Software Development",
+      "area": "Computer System Bachelor",
       "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
+      "startDate": "2007-07-10",
+      "endDate": "2012-06-05"
     }
   ],
   "certificates": [
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
+      "name": "AWS Cloud Practitioner",
+      "date": "2023-01-19",
+      "issuer": "Amazon Web Services",
+      "url": "https://www.credly.com/badges/b56502b3-61ca-4ddb-adb5-799125712ae8/linked_in?t=rotpmh"
     }
   ],
   "skills": [
