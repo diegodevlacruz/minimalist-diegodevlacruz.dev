@@ -1,5 +1,4 @@
 ---
-import { isJSDocPropertyLikeTag } from "typescript";
 import Section from "../Section.astro";
 
 import { projects } from "@cv";
@@ -8,7 +7,7 @@ import { projects } from "@cv";
 <Section title="Projects">
     <ul>
         {
-            projects.map(({ url, description, highlights, name, isActive }) => {
+            projects.map(({ url, description, highlights, name }) => {
                 return (
                     <li>
                         <article>
@@ -16,9 +15,6 @@ import { projects } from "@cv";
                                 <a href={url} title={`See project ${name}`}>
                                     <h3>{name}</h3>
                                 </a>
-                                {
-                                    isActive && <span>&bull;</span>
-                                }
                                 <p>{description}</p>
                             </header>
                             <footer>
