@@ -1,0 +1,228 @@
+{
+  "basics": {
+    "name": "Diego Armando de la Cruz Rojas",
+    "label": "Full Stack Developer with more than 6 years of Experience",
+    "image": "/me.webp",
+    "email": "diego.dlacruz@gmail.com",
+    "phone": "(052) 311-263-73-32",
+    "url": "https://diegoadelacruz.me",
+    "summary": [
+      "Experienced a professional IT Developer with over 6 years of valuable experience in ",
+      "the development of business solutions as well as the contribution of new ideas to improve existing processes. ",
+      "I want to create implementations on the backend development side and improve the user experience on the Frontend development side."
+    ],
+    "location": {
+      "address": "Lago Mayor 79",
+      "postalCode": "11460",
+      "city": "Miguel Hidalgo",
+      "countryCode": "MX",
+      "region": "Mexico City"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Diego Armando de la Cruz Rojas",
+        "url": "https://www.linkedin.com/in/diegoadelacruz/"
+      },
+      {
+        "network": "GitHub",
+        "username": "diegodevlacruz",
+        "url": "https://github.com/diegodevlacruz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "HCL Technologies",
+      "position": "Full Stack Developer",
+      "url": "https://hcl.com",
+      "startDate": "2022-01-10",
+      "endDate": null,
+      "summary": [
+        "My role in this moment as a Full Stack Developer consists in provide new functionalities ",
+        "and enhance existing ones with a whole range of tools and technologies as Java 17,",
+        "React, DB2, Container management with OpenShift, git, Gitlab for CI/CD and Scrum as a ",
+        "Agile methodologies trough Jira's tools suite"
+      ],
+      "highlights": [
+        "Worked in Pantalla Unica, An ambitious project that integrated many functions for the bank's operators."
+      ]
+    },
+    {
+      "name": "Invex Bank",
+      "position": "Full Stack Developer",
+      "url": "https://invex.com",
+      "startDate": "2019-11-28",
+      "endDate": "2022-01-07",
+      "summary": [
+        "As a Full Stack Developer I worked in critical projects of bank,",
+        "according with Business requirements and bring best experience services to customers ",
+        "all of this using cutting edge technologies as Java 8, React, Docker, Database management with Oracle,",
+        "git and Agile Metodolgies with Scrum."
+      ],
+      "highlights": [
+        "Worked in Pantalla Unica, An ambitious project that integrated many functions for the bank's operators."
+      ]
+    },
+    {
+      "name": "Sygno IT Services",
+      "position": "Full Stack Developer",
+      "url": "https://www.sygno.com.mx/en/",
+      "startDate": "2019-11-27",
+      "endDate": "2018-11-26",
+      "summary": [
+        "In a Full Stack Developer role I developed important projects for Invex bank, according with bank requirements and business necessities",
+        "all of this using technologies as Java 7 EE, Testing side using JUnit and Sonarqube, Git version control,  Code documentation, ",
+        "with Confluence and project management with Jira, Jboss EAP 6 and 7 Application Server, Agile methodologies with Scrum"
+      ],
+      "highlights": [
+        "Worked in Pantalla Unica, An ambitious project that integrated many functions for the bank's operators."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Autonoma de Nayarit",
+      "url": "https://www.uan.edu.mx",
+      "area": "Computer System Bachelor",
+      "studyType": "Bachelor",
+      "startDate": "2007-07-10",
+      "endDate": "2012-06-05"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Cloud Practitioner",
+      "date": "2023-01-19",
+      "issuer": "Amazon Web Services",
+      "url": "https://www.credly.com/badges/b56502b3-61ca-4ddb-adb5-799125712ae8/linked_in?t=rotpmh"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "Java 7EE",
+        "Java 8",
+        "Java 17"
+      ]
+    },
+    {
+      "name": "Javascript",
+      "level": "Intermediate",
+      "keywords": [
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Javascript",
+        "HTML5",
+        "CSS",
+        "Astro"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "React"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Docker"
+      ]
+    },
+    {
+      "name": "Oracle DB",
+      "level": "Intermediate",
+      "keywords": [
+        "Oracle DB"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Basic",
+      "keywords": [
+        "Amazon Web Services",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Spring Framework",
+      "level": "Intermediate",
+      "keywords": [
+        "Spring Framework",
+        "SpringBoot",
+        "Spring Data",
+        "Spring JPA",
+        "Spring Batch"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Git",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Intermediate",
+      "keywords": [
+        "GitLab",
+        "BitBucket"
+      ]
+    },
+    {
+      "name": "Junit and Mockito",
+      "level": "Intermediate",
+      "keywords": [
+        "Unit Tests",
+        "Mockito",
+        "Junit"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Todo-App",
+      "startDate": "2024-05-01",
+      "endDate": "2021-05-15",
+      "description": "This is a mini app that manage tasks in a simple screen, you can add and remove completed tasks.",
+      "highlights": [
+        "Use React states"
+      ],
+      "url": "https://todo-app-ddlc.netlify.app"
+    }
+  ]
+}
